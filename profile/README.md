@@ -9,6 +9,7 @@ collector, and no implicit allocation in the runtime model.
 | Project | Description | Links |
 | --- | --- | --- |
 | [Kalcite](https://github.com/Kalcite-Engine/kalcite) | Language, compiler, runtime, 2D engine, CLI, and platform backends. | [Repository](https://github.com/Kalcite-Engine/kalcite) · [Issues](https://github.com/Kalcite-Engine/kalcite/issues) |
+| [Kally](https://github.com/Kalcite-Engine/kally) | Package Manager, based on git | [Repository](https://github.com/Kalcite-Engine/kally) · [Issues](https://github.com/Kalcite-Engine/kally/issues) |
 | [Kalcite LSP](https://github.com/Kalcite-Engine/kalcite-lsp) | Independent Language Server Protocol implementation for editor tooling. | [Repository](https://github.com/Kalcite-Engine/kalcite-lsp) · [Issues](https://github.com/Kalcite-Engine/kalcite-lsp/issues) |
 | [Kalcite Editor](https://github.com/Kalcite-Engine/kalcite-editor) | Independent native graphical editor for Kalcite projects. | [Repository](https://github.com/Kalcite-Engine/kalcite-editor) · [Issues](https://github.com/Kalcite-Engine/kalcite-editor/issues) |
 | [Documentation](https://github.com/Kalcite-Engine/kalcite-docs) | The versioned manual for users and contributors. | [Read the docs](https://kalcite-engine.github.io/kalcite-docs/) · [Repository](https://github.com/Kalcite-Engine/kalcite-docs) |
